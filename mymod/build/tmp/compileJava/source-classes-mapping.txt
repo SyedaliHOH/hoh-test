@@ -1,0 +1,2 @@
+com/hoh/mymod/hohswords.java
+ com.hoh.mymod.hohswords
